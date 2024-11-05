@@ -5,6 +5,7 @@ Software Engineering Day1 Assignment
 #Part 1: Introduction to Software Engineering
 
 Explain what software engineering is and discuss its importance in the technology industry.
+
    -Writing instructions for computers.
    -Software engineering involves building apps, games, and websites that make our lives easier.
    -Solving real-world problems through technology
