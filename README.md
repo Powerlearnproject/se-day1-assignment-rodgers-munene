@@ -6,9 +6,9 @@ Software Engineering Day1 Assignment
 
 Explain what software engineering is and discuss its importance in the technology industry.
 
-   -Writing instructions for computers.
-   -Software engineering involves building apps, games, and websites that make our lives easier.
-   -Solving real-world problems through technology
+   - Writing instructions for computers.
+   - Software engineering involves building apps, games, and websites that make our lives easier.
+   - Solving real-world problems through technology
 
 Identify and describe at least three key milestones in the evolution of software engineering.
  1. The Birth of Software Engineering (1968):
@@ -36,7 +36,8 @@ List and briefly explain the phases of the Software Development Life Cycle.
       - This involves fixing any issues, making updates to improve functionality, and addressing new requirements as they emerge.
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
-   Waterfall is a linear, sequential model where each phase must be completed before the next one begins eg developing a flight control system 
+  
+   - Waterfall is a linear, sequential model where each phase must be completed before the next one begins eg developing a flight control system 
    for an airline, since the requirements are precise, while Agile cycles through mini-phases repeatedly in iterations allowing for adjustments and frequent reassessment example a
    social media app where new features are added frequently.
 
@@ -56,8 +57,8 @@ Describe the roles and responsibilities of a Software Developer, a Quality Assur
    - Communication and Coordination: Act as the main point of contact for all team members, ensuring effective communication and collaboration.
 
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
-  IDEs are software applications that provide developers with a comprehensive environment for coding, testing, and debugging thereby streamlining the coding process and improving efficiency. Example - Visual Studio Code
-  Version Control Systems are tools that help developers track and manage changes to code over time. VCS is essential for team collaboration, project history, and code stability.
+  - IDEs are software applications that provide developers with a comprehensive environment for coding, testing, and debugging thereby streamlining the coding process and improving efficiency. Example - Visual Studio Code
+  - Version Control Systems are tools that help developers track and manage changes to code over time. VCS is essential for team collaboration, project history, and code stability.
   example - Github
 
 What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
